@@ -38,7 +38,16 @@ subtitle = ""
   name = "css3"
 
 [[feature]]
-  img = "icons8-kotlin.svg"
+  icon = "{{< figure library="true" src="icons8-kotlin-48.png" title="kotlin" lightbox="true" >}}"
+  img = "icons8-kotlin-48.png"
+  name = "Kotlin"
+
+[[feature]]
+  icon = {{< figure library="true" src="icons8-kotlin-48.png" title="kotlin" lightbox="true" >}}
+  name = "Kotlin"
+
+[[feature]]
+  img = {{< figure library="true" src="icons8-kotlin-48.png" title="kotlin" lightbox="true" >}}
   name = "Kotlin"
 
 # Uncomment to use emoji icons.
