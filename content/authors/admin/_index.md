@@ -48,7 +48,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: 
+  link: https://twitter.com/cs_cs8
 - icon: github
   icon_pack: fab
   link: https://github.com/cscs8
