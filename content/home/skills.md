@@ -37,6 +37,10 @@ subtitle = ""
   icon_pack = "fab"
   name = "css3"
 
+[[feature]]
+  img = "icons8-kotlin.svg"
+  name = "Kotlin"
+
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
