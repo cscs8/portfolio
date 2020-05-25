@@ -37,17 +37,9 @@ subtitle = ""
   icon_pack = "fab"
   name = "css3"
 
-<!-- [[feature]]
-  icon = "{{< figure library="true" src="icons8-kotlin-48.png" title="kotlin" lightbox="true" >}}"
-  name = "Kotlin"
-
-[[feature]]
-  icon = "{{< figure library="true" src="icons8-kotlin-48.png" title="kotlin" lightbox="true" >}}"
-  name = "Kotlin"
-
 [[feature]]
   img = "{{< figure library="true" src="icons8-kotlin-48.png" title="kotlin" lightbox="true" >}}"
-  name = "Kotlin" -->
+  name = "Kotlin"
 
 # Uncomment to use emoji icons.
 # [[feature]]
