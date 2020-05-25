@@ -18,19 +18,19 @@ subtitle = ""
   icon = "java"
   icon_pack = "fab"
   name = "Java"
-  description = "100%"
+  description = ""
   
 [[feature]]
   icon = "js-square"
   icon_pack = "fab"
   name = "JavaScript"
-  description = "100%"  
+  description = ""  
   
 [[feature]]
   icon = "html5"
   icon_pack = "fab"
   name = "Html5"
-  description = "10%"
+  description = ""
 
 [[feature]]
   icon = "css3-alt"
@@ -41,6 +41,17 @@ subtitle = ""
   icon = "icons8-kotlin"
   icon_pack = "custom"
   name = "Kotlin"
+
+[[feature]]
+  icon = "icons8-typescript"
+  icon_pack = "custom"
+  name = "TypeScript"
+
+[[feature]]
+  icon = "icons8-vue-js"
+  icon_pack = "custom"
+  name = "Vue.js"
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
