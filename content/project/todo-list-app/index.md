@@ -34,14 +34,15 @@ slides: example
 #  Todolist
 
 ## Androidアプリ Todolist
-![SS01](https://github.com/cscs8/Android-Todolist/blob/master/img/ss_1.png)
+
+![SS01](/img/ss_1.jpg)
 
 
-![SS02](https://github.com/cscs8/Android-Todolist/blob/master/img/ss_2.png)
+![SS02](/img/ss_2.png)
 
-![SS03](https://github.com/cscs8/Android-Todolist/blob/master/img/ss_3.png)
+![SS03](/img/ss_3.png)
 
-![SS04](https://github.com/cscs8/Android-Todolist/blob/master/img/ss_4.png)
+![SS04](/img/ss_4.png)
 
 Google Play 公開中です!
 
