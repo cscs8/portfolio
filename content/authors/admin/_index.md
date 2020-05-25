@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: cscs8
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Software Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Freelance
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Javaプログラマとして2015年から開発経験を積む。工程は要件定義, 基本設計, 詳細設計, 実装, テスト, 運用・保守を経験。
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Kotlin
+- Java
+- CI/CD
+- Docker
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: ネットワークスペシャリスト試験
+    institution: IPA
+    year: 2016
+  - course: データベーススペシャリスト試験
+    institution: IPA
+    year: 2015
+  - course: 情報セキュリティスペシャリスト試験
+    institution: IPA 現：情報処理安全確保支援士試験
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +48,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/cscs8
+- icon: link
+  icon_pack: fas
+  link: https://qiita.com/cs8
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
