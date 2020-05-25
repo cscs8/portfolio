@@ -3,7 +3,7 @@
 
 title: "Todolist"
 subtitle: "Android Todoリストアプリ"
-# summary: "<a href='https://play.google.com/store/apps/details?id=com.cscs8.todolist&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Google Play で手に入れよう' src='https://play.google.com/intl/en_us/badges/static/images/badges/ja_badge_web_generic.png'/></a>"
+summary: "<a href='https://play.google.com/store/apps/details?id=com.cscs8.todolist&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Google Play で手に入れよう' src='https://play.google.com/intl/en_us/badges/static/images/badges/ja_badge_web_generic.png'/></a>"
 authors: []
 tags: []
 categories: []
@@ -17,7 +17,7 @@ draft: false
 
 aaaa
 
-![aaa](/img/google-play-badge.png)
+[aaa](/img/google-play-badge.png)
 # {{< figure library="true" src="google-play-badge.png" title="A caption" lightbox="true" >}}
 
 # Featured image
