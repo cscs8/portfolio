@@ -12,14 +12,6 @@ lastmod: 2020-05-25T21:26:06+09:00
 featured: false
 draft: false
 
-
-## 概要
-
-aaaa
-
-[aaa](/img/google-play-badge.png)
-# {{< figure library="true" src="google-play-badge.png" title="A caption" lightbox="true" >}}
-
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -34,4 +26,13 @@ aaaa
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 # projects: []
+
 ---
+
+## 概要
+
+aaaa
+
+[aaa](/img/google-play-badge.png)
+# {{< figure library="true" src="google-play-badge.png" title="A caption" lightbox="true" >}}
+
