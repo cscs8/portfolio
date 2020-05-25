@@ -21,6 +21,21 @@ subtitle = ""
   description = ""
   
 [[feature]]
+  icon = "icons8-kotlin"
+  icon_pack = "custom"
+  name = "Kotlin"
+
+[[feature]]
+  icon = "icons8-typescript"
+  icon_pack = "custom"
+  name = "TypeScript"
+
+[[feature]]
+  icon = "icons8-vue-js"
+  icon_pack = "custom"
+  name = "Vue.js"
+
+[[feature]]
   icon = "js-square"
   icon_pack = "fab"
   name = "JavaScript"
@@ -38,24 +53,9 @@ subtitle = ""
   name = "css3"
 
 [[feature]]
-  icon = "icons8-kotlin"
-  icon_pack = "custom"
-  name = "Kotlin"
-
-[[feature]]
-  icon = "icons8-typescript"
-  icon_pack = "custom"
-  name = "TypeScript"
-
-[[feature]]
-  icon = "icons8-vue-js"
-  icon_pack = "custom"
-  name = "Vue.js"
-
-[[feature]]
   icon = "icons8-oracle-logo"
   icon_pack = "custom"
-  name = "Vue.js"
+  name = "oracle"
 
 # Uncomment to use emoji icons.
 # [[feature]]
