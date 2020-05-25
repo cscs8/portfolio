@@ -35,8 +35,7 @@ slides: example
 
 ## Androidアプリ Todolist
 
-![SS01](/img/ss_1.jpg)
-
+{{< figure src="ss_1.png" title="A caption" lightbox="true" >}}
 
 ![SS02](/img/ss_2.png)
 
