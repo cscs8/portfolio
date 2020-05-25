@@ -2,7 +2,6 @@
 title: Todo List App
 summary: Todoリストアプリ.
 tags:
-- Android
 - Kotlin
 date: "2020-05-25T23:35:37.034Z"
 
