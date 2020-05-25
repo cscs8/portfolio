@@ -38,7 +38,7 @@ subtitle = ""
   name = "css3"
 
 [[feature]]
-  img = "{{< figure library="true" src="icons8-kotlin-48.png" title="kotlin" lightbox="true" >}}"
+  img = "icons8-kotlin-48.png"
   name = "Kotlin"
 
 # Uncomment to use emoji icons.
