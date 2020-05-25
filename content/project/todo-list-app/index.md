@@ -35,13 +35,13 @@ slides: example
 
 ## Androidアプリ Todolist
 
-{{< figure src="ss_1.png" title="A caption" lightbox="true" >}}
+{{< figure src="ss_1.png" lightbox="true" >}}
 
-![SS02](/img/ss_2.png)
+{{< figure src="ss_2.png" lightbox="true" >}}
 
-![SS03](/img/ss_3.png)
+{{< figure src="ss_3.png" lightbox="true" >}}
 
-![SS04](/img/ss_4.png)
+{{< figure src="ss_4.png" lightbox="true" >}}
 
 Google Play 公開中です!
 
