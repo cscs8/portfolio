@@ -3,7 +3,7 @@ title: Todo List App
 summary: Todoリストアプリ.
 tags:
 - Kotlin
-date: "2020-05-25T23:35:37.034Z"
+date: "2020-05-25T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
