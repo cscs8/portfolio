@@ -52,6 +52,10 @@ subtitle = ""
   icon_pack = "custom"
   name = "Vue.js"
 
+[[feature]]
+  icon = "icons8-oracle-logo"
+  icon_pack = "custom"
+  name = "Vue.js"
 
 # Uncomment to use emoji icons.
 # [[feature]]
