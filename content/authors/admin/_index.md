@@ -38,7 +38,7 @@ education:
     institution: IPA 現：情報処理安全確保支援士試験
     year: 2013
 
-# Social/Academic Networking
+  # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
