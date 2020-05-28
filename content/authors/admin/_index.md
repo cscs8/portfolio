@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Javaプログラマとして2015年から開発経験を積む。工程は要件定義, 基本設計, 詳細設計, 実装, テスト, 運用・保守を経験。最近はKotlinを勉強中
+bio: Javaプログラマとして2015年から開発経験を積む。工程は基本設計, 詳細設計, 実装, テスト, 運用・保守を経験。最近はKotlin, Androidを勉強中
 
 interests:
 - Kotlin
@@ -71,5 +71,5 @@ user_groups:
 - Visitors
 ---
 
-Javaプログラマとして2015年から開発経験を積む。工程は要件定義, 基本設計, 詳細設計, 実装, テスト, 運用・保守を経験。
-最近はKotlinを勉強中。
+Javaプログラマとして2015年から開発経験を積む。工程は基本設計, 詳細設計, 実装, テスト, 運用・保守を経験。
+最近はKotlin, Androidを勉強中
