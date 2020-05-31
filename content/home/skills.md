@@ -26,6 +26,11 @@ subtitle = ""
   name = "Kotlin"
 
 [[feature]]
+  icon = "golang-official"
+  icon_pack = "custom"
+  name = "Go"
+
+[[feature]]
   icon = "icons8-typescript"
   icon_pack = "custom"
   name = "TypeScript"
