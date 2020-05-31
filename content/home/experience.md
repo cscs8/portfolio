@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2015-04-01"
   date_end = "2018-02-28"
-  description = """新卒入社.受託開発."""
+  description = """新卒入社."""
 
 [[experience]]
   title = "学生"
