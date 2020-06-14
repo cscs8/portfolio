@@ -1,14 +1,10 @@
 ---
 title: memo
-subtitle: memo 20200614
+subtitle: memo
 date: 2020-06-14T13:13:13.034Z
 summary: summary
 draft: false
 featured: false
-image:
-  filename: ic_app_512.png
-  focal_point: Smart
-  preview_only: false
 ---
 
 ### メモ
