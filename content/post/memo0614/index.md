@@ -5,10 +5,6 @@ date: 2020-06-14T13:13:13.034Z
 summary: summary
 draft: false
 featured: false
-image:
-  filename: 
-  focal_point: 
-  preview_only: 
 ---
 メモ
 
