@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Memo Test"
+title: "Scala Memo"
 subtitle: ""
 summary: ""
 authors: []
@@ -26,3 +26,5 @@ projects: []
   - -> メモリ使用量
 - GoとJavaの実行環境比較
   - JavaのJVMでいう仮想マシン上じゃなくてOSとCPUアーキテクチャに合わせて実行ファイル作るから、直接実行できる?
+- 定数は大文字のキャメルケース
+  - e.g. DocumentNumber
