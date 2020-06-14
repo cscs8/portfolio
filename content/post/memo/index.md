@@ -5,6 +5,9 @@ date: 2020-06-14T13:13:13.034Z
 summary: summary
 draft: false
 featured: false
+image:
+  caption: ""
+  focal_point: ""
 ---
 
 ### メモ
