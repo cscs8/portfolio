@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Scala Memo"
+title: "Scala Memo June 14 2020"
 subtitle: ""
 summary: ""
 authors: []
