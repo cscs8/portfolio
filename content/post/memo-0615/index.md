@@ -32,4 +32,7 @@ projects: []
   - -> data class
 - if式, for式, while式, do while式, ...
   - -> if文とかは全部式になってるからif式という呼び名になる
+- match =>
+- for <-
+- yield イールド 産まれる for-comprehension
 
